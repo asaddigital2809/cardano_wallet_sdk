@@ -4,7 +4,7 @@ version: 0.1.0-alpha.12
 homepage: https://github.com/reaster/cardano_wallet_sdk
 
 environment:
-  sdk: ">=2.17.0 <3.4.0"
+  sdk: '>=3.0.3 <4.0.0'
 
 dependencies:
   analyzer: ^5.4.0
